@@ -1,4 +1,4 @@
-var popData = [
+var popData = [ 
     { "x": 1,"y": 5, "count": 13},  
     { "x": 2,"y": 4, "count": 20},  
     { "x": 3,"y": 2, "count": 31},  
